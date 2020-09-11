@@ -58,11 +58,12 @@ Members involved in the Project :
    
    
    This team is currently led by :
-
+  ### **VINAY VURA**
+   
+   * Visionary **HEAD** of team and Non-Technical (NTSDD) **HEAD**
+   
+   
   ### **KARTHIKEYA KANNAIAH**
    
    * Technical (TSDD) **HEAD**
 
-  ### **VINAY VURA**
-   
-   * Visionary **HEAD** of team and Non-Technical (NTSDD) **HEAD**
