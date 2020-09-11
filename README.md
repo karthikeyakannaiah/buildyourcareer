@@ -42,9 +42,9 @@ Members involved in the Project :
           Skill development is the main intention of our group.
       
    This team has 3 divisions :
-       * **Technical Skills Development Division (TSDD)
-       * **NON-Technical Skills Development Division (NTSDD)
-       * **Progressive Work Division (PWD)
+   * **Technical Skills Development Division (TSDD)**
+   * **NON-Technical Skills Development Division (NTSDD)**
+   * **Progressive Work Division (PWD)**
    
    
    about **"Progressive Work Division"** :
@@ -59,10 +59,10 @@ Members involved in the Project :
    
    This team is currently led by :
 
-   **KARTHIKEYA KANNAIAH**
+  ### **KARTHIKEYA KANNAIAH**
    
-   Technical (TSDD) **HEAD**
+   * Technical (TSDD) **HEAD**
 
-   **VINAY VURA**
+  ### **VINAY VURA**
    
-   Visionary **HEAD** of team and Non-Technical (NTSDD) **HEAD**
+   * Visionary **HEAD** of team and Non-Technical (NTSDD) **HEAD**
