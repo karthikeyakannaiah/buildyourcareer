@@ -1,0 +1,30 @@
+body{
+    background-color: whitesmoke;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: #14181f;
+}
+#numberr{
+    width: 150px;
+}
+#count2{
+    color: whitesmoke;
+    padding: 20px;
+    background-color: #14181f;
+    margin-top: 0px;
+    border-radius: 0%;
+}
+.btn{
+    border: none;
+    background-color: #14181f;
+    color: whitesmoke;
+    padding: 8px;
+    width: 120px;
+    text-transform: capitalize;
+}
+#mylist{
+    text-align: left;
+}
+.listitem{
+    color: #14181f;
+}

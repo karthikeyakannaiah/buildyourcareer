@@ -8,6 +8,7 @@
 }
 body{
   background: #f2f2f2;
+  font-family: 'Montserrat', sans-serif;
 }
 nav{
   background: #171c24;
@@ -241,25 +242,43 @@ p{
   font-size: 20px;
   margin-right: 150px;
   margin-left: 80px;
-  font-family: arial;
+  font-family: 'Montserrat', sans-serif;
 }
 
 h3{
   margin-right: 150px; 
   margin-left: 80px; 
-  font-family: comic sans MS;
+  font-family: 'Montserrat', sans-serif;
   color: orangered;
 }
 
 h2{
   margin-right: 150px;
   margin-left: 80px;
-  font-family: comic sans Ms;
-  color: goldenrod;
+  font-family: 'Montserrat', sans-serif;
+  color: rgb(32, 144, 218);
 }
 .search-icon{
   display: none;
 }
 #workspace:hover{
   color: rgb(66, 230, 66);
+}
+#about{
+ text-align:left;
+  
+}
+#foo{
+  color: #fff;
+  background-color: #14181f;
+  width: auto;
+}
+#fea{
+  float: left;
+  list-style: circle;
+}
+.frame{
+  height: 460px; 
+  width : 300px;
+
 }
