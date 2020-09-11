@@ -24,14 +24,11 @@ Members involved in the Project :
   Also worked on Workspace features and worked on givings final repairs and add-ons to the Project 
        and finally hosted the site using Firebase.
       
-      
-  about **"Progressive Work Division"** :
-      
-   This is where all the implementation of skills will be done
-          Like: Projects, minor Projects, Research and Development Activities etc..,
-      
-   Independent Work flow with individuality among projects.
-    
+   
+   
+   
+   
+   
   ![achiever](achiever.png)
   
   
@@ -48,7 +45,18 @@ Members involved in the Project :
        * **Technical Skills Development Division (TSDD)
        * **NON-Technical Skills Development Division (NTSDD)
        * **Progressive Work Division (PWD)
+   
+   
+   about **"Progressive Work Division"** :
       
+   This is where all the implementation of skills will be done
+          Like: Projects, minor Projects, Research and Development Activities etc..,
+      
+   Independent Work flow with individuality among projects.
+   
+   
+   
+   
    This team is currently led by :
 
    **KARTHIKEYA KANNAIAH**
